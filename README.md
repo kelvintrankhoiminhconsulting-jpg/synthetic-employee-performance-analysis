@@ -61,7 +61,7 @@ The analysis followed these steps:
 4. Compared employees using Validated Claims Daily and On-Queue %.
 5. Added Calls/Day as workload context for employee comparisons.
 6. Examined weekly validated-claim trends across the four-week period.
-7. Identified performance patterns and limitations in the available data.
+7. Identified performance patterns and considered limitations.
 
 ## Key Findings
 
