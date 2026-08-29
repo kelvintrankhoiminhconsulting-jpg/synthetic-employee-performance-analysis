@@ -1,4 +1,4 @@
-<img width="1917" height="1037" alt="employee_dashboard" src="https://github.com/user-attachments/assets/2b86fe4e-5909-41d3-ab58-7fbbac52599f" />
+
 # synthetic-employee-performance-analysis
 
 Employee performance analysis using SQL and Tableau with a synthetic dataset
@@ -116,7 +116,7 @@ The Tableau dashboard provides an interactive view of employee and manager perfo
 
 ### Dashboard Preview
 
-_Add dashboard screenshot here._
+<img width="1917" height="1037" alt="employee_dashboard" src="https://github.com/user-attachments/assets/2b86fe4e-5909-41d3-ab58-7fbbac52599f" />
 
 ### Employee Availability vs. Validated Claim Productivity
 
