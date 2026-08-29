@@ -34,12 +34,12 @@ This project uses a synthetic employee operations dataset designed for analytica
 
 ### Key Metrics
 
-- **Validated Claims** — observed claim outcomes
+- **Validated Claims** — total claim outcomes
 - **Validated Claims Daily** — daily validated-claim productivity
 - **Composite Assessments** — total completed assessments
 - **Care Questions** — total care-related questions
 - **On-Queue %** — employee availability
-- **Calls/Day** — average daily call volume used as a workload indicator
+- **Calls/Day** — average daily call volume used as a workload context measure
 
 The analysis uses these metrics together rather than relying on a single measure of employee performance.
 
