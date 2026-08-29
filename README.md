@@ -16,8 +16,8 @@ The analysis was developed using SQL for data exploration and Tableau for intera
 
 This analysis explores the following questions:
 
-- Which manager demonstrates the strongest overall observed results?
-- How do employees compare across validated-claim productivity and On-Queue availability?
+- Which manager demonstrates the strongest overall observed performance?
+- How do employees compare in validated-claim productivity and On-Queue availability?
 - Are employee performance patterns consistent across multiple weeks?
 - How does workload, measured by average Calls/Day, provide context for employee outcomes?
 - What additional information would be needed to make more definitive performance assessments?
