@@ -121,7 +121,7 @@ The Tableau dashboard provides an interactive view of employee and manager perfo
 
 ### Employee Availability vs. Validated Claim Productivity
 
-The scatter plot compares average validated claims per day with average On-Queue availability. Employee color identifies each employee, while dot size represents average Calls/Day as a workload indicator.
+The scatter plot compares average validated claims per day with average On-Queue availability. Employee color identifies each employee, while dot size represents average Calls/Day as a workload context measure.
 
 <img width="1911" height="1040" alt="employee_performance_benchmark" src="https://github.com/user-attachments/assets/4edcb803-82c5-4afb-b074-67d5f07fc80d" />
 
