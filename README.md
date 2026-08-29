@@ -69,7 +69,7 @@ The analysis followed these steps:
 
 Alicia demonstrated the strongest overall observed performance across the three outcome measures. She had the highest number of Composite Assessments (461) and Care Questions (1,002), while remaining very close to Brian in Validated Claims (321 vs. 326). Brian had the highest Validated Claims total, but his advantage over Alicia was only five claims. Danielle recorded the lowest results across all three measures.
 
-Each manager has four employees, so the teams are equal in size, making the comparison of totals reasonable within this dataset.
+Each manager has four employees, so the teams are equal in size, making comparisons of the observed totals reasonable within this dataset.
 
 ### 2. Employee Performance
 
@@ -87,7 +87,7 @@ These results demonstrate that employee performance varies by dimension and shou
 
 ### 3. Workload Context
 
-Average Calls/Day was included as an additional workload indicator. This provides context when comparing employees with different validated-claim results and helps avoid interpreting output without considering activity levels.
+Average Calls/Day was included as an additional workload context measure. This provides context when comparing employees with different validated-claim results and helps avoid interpreting output without considering activity levels.
 
 ### 4. Weekly Trend
 
