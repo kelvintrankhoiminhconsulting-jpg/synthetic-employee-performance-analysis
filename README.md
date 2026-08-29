@@ -133,6 +133,8 @@ The weekly trend shows changes in validated-claim productivity across the four-w
 
 ### Tableau Public
 
-_Add Tableau Public link here._
+https://public.tableau.com/views/Employee_Performance_Dashboard/EmployeePerformanceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
   
 
