@@ -1,4 +1,5 @@
 
+
 # synthetic-employee-performance-analysis
 
 Employee performance analysis using SQL and Tableau with a synthetic dataset
@@ -122,15 +123,16 @@ The Tableau dashboard provides an interactive view of employee and manager perfo
 
 The scatter plot compares average validated claims per day with average On-Queue availability. Employee color identifies each employee, while dot size represents average Calls/Day as a workload indicator.
 
-_Add scatter plot screenshot here._
+<img width="1911" height="1040" alt="employee_performance_benchmark" src="https://github.com/user-attachments/assets/4edcb803-82c5-4afb-b074-67d5f07fc80d" />
 
 ### Weekly Validated Claims Trend
 
 The weekly trend shows changes in validated-claim productivity across the four-week period for all employees.
 
-_Add weekly trend screenshot here._
+<img width="1907" height="1040" alt="employee_weekly_validated_claims_trends" src="https://github.com/user-attachments/assets/e2735956-dfe1-4342-a246-7e1d4903037f" />
 
 ### Tableau Public
 
 _Add Tableau Public link here._
   
+
